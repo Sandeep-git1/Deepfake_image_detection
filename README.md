@@ -106,3 +106,8 @@ deepfake-detection/
 │ └── Raw_Grayscale_Pipeline.ipynb
 └── README.md
 
+Author
+Sandeep Patro
+M.Tech – ICT (Software Systems)
+DA-IICT, India
+
