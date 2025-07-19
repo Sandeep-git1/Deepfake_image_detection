@@ -87,24 +87,6 @@ These models significantly outperformed the paper-style approach and proved that
 
 ---
 
-## Directory Structure
-
-deepfake-detection/
-├── data/
-│ ├── raw/ # Real and AI image folders
-│ ├── preprocessed/ # Grayscale 512×512 images
-│ └── residuals/ # Laplacian residuals as .npy
-├── features/ # FD and TC feature files
-├── results/ # ROC plots, reports, metrics
-├── scripts/
-│ ├── preprocess.py
-│ ├── extract_residuals.py
-│ ├── feature_fd_tc.py
-│ └── train_classifiers.py
-├── notebooks/
-│ ├── FD_TC_Pipeline.ipynb
-│ └── Raw_Grayscale_Pipeline.ipynb
-└── README.md
 
 Author
 Sandeep Patro
