@@ -44,7 +44,7 @@ The original paper proposed a detection pipeline that does **not rely on deep le
 
 ## Dataset
 
-Created my own dataset with 1700 photos each. 
+Created my own dataset with 1700 photos each (i.g. 3400 total photos, AI + Real). 
 
 
 Preprocessed images are resized to **512×512 grayscale** and stored under `preprocessed/`. Residuals are stored as `.npy` files under `residuals/`.
