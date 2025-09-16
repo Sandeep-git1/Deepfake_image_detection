@@ -90,6 +90,5 @@ These models significantly outperformed the paper-style approach and proved that
 
 Author
 Sandeep Patro
-M.Tech – ICT (Software Systems)
-DA-IICT, India
+M.Tech – ICT (Software Systems), India
 
